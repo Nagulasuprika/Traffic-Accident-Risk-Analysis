@@ -91,4 +91,4 @@ Regional Analysis: Governments and tourism bodies can analyze competitiveness by
 Show what the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/a8e4a641bd6a9f7c87f747fc0c7d2e36f29a913a/Traffic%20Accidents%20Summary.png)
 ![Dashboard Preview](https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/d4bb8db012828f8c7946211fc080f129377d0ee1/Traffic%20Accidents%20Location%20Analysis.png)
-![Dashboard Preview](https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/a8e4a641bd6a9f7c87f747fc0c7d2e36f29a913a/Traffic%20Accidents%20Summary.png)
+![Dashboard Preview](https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/981b4e80ba82ca341b0fbc16e22524056e26ab13/Traffic%20Accidents%20Time%20Analysis.png)
