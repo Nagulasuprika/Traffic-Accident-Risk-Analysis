@@ -56,7 +56,7 @@ The data was first analyzed using Python to identify patterns, clean missing val
 
 Traffic accidents continue to cause significant loss of life, property damage, and economic costs. Transportation authorities often struggle to identify accident hotspots and understand the factors contributing to accidents due to scattered and unstructured data.
 
-Key business questions include:
+### Key business questions include:
 
 1. Which locations experience the highest accident frequency?
 2. Which road types are most accident-prone?
@@ -64,6 +64,7 @@ Key business questions include:
 4. During which days and hours do accidents peak?
 5. Which locations require immediate safety improvements?
 6. What factors contribute most to accident occurrence?
+   
 ## 2. Goal of the Dashboard
 
 The dashboard aims to:
@@ -75,6 +76,7 @@ The dashboard aims to:
 6. Assist policymakers in reducing accident rates through data-driven decisions.
 
 ## 3. Dashboard Walkthrough
+
 ### Page 1 – Executive Overview
 #### * Key KPIs
 * Total Accidents
@@ -87,28 +89,28 @@ The dashboard aims to:
 Compares accidents across Urban, Highway, and Rural roads.
 
 Business Question Answered
-Which road type contributes the most accidents?
+  Q. Which road type contributes the most accidents?
 
 ##### Weather Impact Analysis
 
 Analyzes accident distribution under different weather conditions.
 
 Business Question Answered
-Q. Which weather conditions increase accident risk?
+  Q. Which weather conditions increase accident risk?
 
 ##### Lighting Condition Analysis
 
 Shows accident occurrence during Day, Night, and Dusk/Dawn.
 
 Business Question Answered
-Q. Does lighting influence accident occurrence?
+  Q. Does lighting influence accident occurrence?
 
 ##### Accident Severity Distribution
 
 Visualizes the proportion of Low, Minor, and Serious accidents.
 
 Business Question Answered
-Q. How severe are most reported accidents?
+  Q. How severe are most reported accidents?
 
 #### * Interactive Filters
 * Month
@@ -129,28 +131,28 @@ Focuses on identifying accident trends across different time dimensions.
 Ranks accident frequency across weekdays.
 
 Business Question Answered
-Q. Which day experiences the highest number of accidents?
+  Q. Which day experiences the highest number of accidents?
 
 ##### Peak Accident Hours
 
 Analyzes hourly accident trends.
 
 Business Question Answered
-Q. At what time do accidents occur most frequently?
+  Q. At what time do accidents occur most frequently?
 
 ##### Traffic Volume Analysis
 
 Compares traffic volume with accident occurrence.
 
 Business Question Answered
-Q. Is traffic volume related to accident frequency?
+  Q. Is traffic volume related to accident frequency?
 
 ##### Monthly Accident Trend
 
 Displays accident patterns across months.
 
 Business Question Answered
-Q. Which months require additional traffic monitoring?
+  Q. Which months require additional traffic monitoring?
 
 #### * Interactive Filters
 * Month
@@ -171,28 +173,28 @@ Focuses on identifying accident hotspots and geographical risk areas.
 Compares accidents and violations across locations.
 
 Business Question Answered
-Q. Do locations with more traffic violations also experience more accidents?
+  Q. Do locations with more traffic violations also experience more accidents?
 
 ##### Road Type Distribution by Location
 
 Shows dominant road types across accident locations.
 
 Business Question Answered
-Q. Which road infrastructure contributes most to accidents?
+  Q. Which road infrastructure contributes most to accidents?
 
 ##### Accident Hotspot Map
 
 Displays accident locations geographically.
 
 Business Question Answered
-Q. Where should authorities prioritize safety improvements?
+  Q. Where should authorities prioritize safety improvements?
 
 ##### Weather Impact by Location
 
 Shows weather-related accident distribution across locations.
 
 Business Question Answered
-Q. Which weather conditions increase accident risk in each location?
+  Q. Which weather conditions increase accident risk in each location?
 
 ### * Interactive Filters
 * Day
@@ -204,6 +206,7 @@ Q. Which weather conditions increase accident risk in each location?
 ![Dashboard Preview](https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/981b4e80ba82ca341b0fbc16e22524056e26ab13/Traffic%20Accidents%20Time%20Analysis.png)
 
 ## 4. Business Insights
+
 ### Executive Overview
 * Urban roads account for the majority of reported accidents.
 * Rainy weather significantly increases accident occurrence.
