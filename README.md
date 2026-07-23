@@ -12,14 +12,22 @@ The dashboard is intended for transportation authorities, city planners, road sa
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Interactive dashboard development and visualization.
-🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, preprocessing, Exploratory Data Analysis (EDA), and feature engineering.
-⚡ Power Query – Data transformation, loading, and preparation.
-🧠 DAX (Data Analysis Expressions) – Dynamic KPI calculations, measures, and business metrics.
-🔗 Data Modeling – Relationships between tables to enable cross-filtering and efficient reporting.
-📍 Power BI Maps – Geographical visualization of accident hotspots.
-🎨 Power BI Visuals & Slicers – Interactive filtering and drill-down analysis.
-📁 File Formats: .pbix, .ipynb, .csv, .png
+### * Power BI Desktop
+     Interactive dashboard development and visualization.
+### * Python (Pandas, NumPy, Matplotlib, Seaborn) 
+      Data cleaning, preprocessing, Exploratory Data Analysis (EDA), and feature engineering.
+### * Power Query 
+      Data transformation, loading, and preparation.
+### * DAX (Data Analysis Expressions) 
+      Dynamic KPI calculations, measures, and business metrics.
+### * Data Modeling 
+      Relationships between tables to enable cross-filtering and efficient reporting.
+### * Power BI Maps 
+      Geographical visualization of accident hotspots.
+### * Power BI Visuals & Slicers 
+      Interactive filtering and drill-down analysis.
+### * File Formats 
+      .pbix, .ipynb, .csv, .png
 
 # Data Source
 
@@ -27,19 +35,19 @@ The dashboard was built using the following tools and technologies:
 
 The dataset contains detailed accident records including:
 
-Accident ID
-Location ID
-Date
-Month
-Day of Week
-Hour of Day
-Weather Condition
-Road Type
-Lighting Condition
-Vehicle Count
-Average Vehicle Speed
-Traffic Violations
-Accident Severity
+* Accident ID
+* Location ID
+* Date
+* Month
+* Day of Week
+* Hour of Day
+* Weather Condition
+* Road Type
+* Lighting Condition
+* Vehicle Count
+* Average Vehicle Speed
+* Traffic Violations
+* Accident Severity
 
 The data was first analyzed using Python to identify patterns, clean missing values, and validate data quality before importing into Power BI for dashboard development.
 
@@ -69,10 +77,10 @@ The dashboard aims to:
 ## 3. Dashboard Walkthrough
 ### Page 1 – Executive Overview
 #### * Key KPIs
-Total Accidents
-Total Traffic Violations
-Total Vehicles
-Average Vehicle Speed
+* Total Accidents
+* Total Traffic Violations
+* Total Vehicles
+* Average Vehicle Speed
 #### * Key Visuals
 ##### Road Type Analysis
 
@@ -186,7 +194,7 @@ Shows weather-related accident distribution across locations.
 Business Question Answered
 Q. Which weather conditions increase accident risk in each location?
 
-#### * Interactive Filters
+### * Interactive Filters
 * Day
 * Month
 * Hour
@@ -197,20 +205,20 @@ Q. Which weather conditions increase accident risk in each location?
 
 ## 4. Business Insights
 ### Executive Overview
-Urban roads account for the majority of reported accidents.
-Rainy weather significantly increases accident occurrence.
-Nighttime records more accidents than daytime.
-Most reported accidents fall under the Low Severity category.
+* Urban roads account for the majority of reported accidents.
+* Rainy weather significantly increases accident occurrence.
+* Nighttime records more accidents than daytime.
+* Most reported accidents fall under the Low Severity category.
 ### Time Analysis
-Thursday records the highest accident frequency.
-Morning and evening rush hours experience accident peaks.
-Traffic volume closely follows accident trends.
-Month 5 records the highest number of accidents.
+* Thursday records the highest accident frequency.
+* Morning and evening rush hours experience accident peaks.
+* Traffic volume closely follows accident trends.
+* Month 5 records the highest number of accidents.
 ### Location Analysis
-L008 is the highest accident hotspot.
-Locations with higher traffic violations generally report more accidents.
-Urban areas show the greatest accident concentration.
-Rain contributes significantly to accidents across major locations.
+* L008 is the highest accident hotspot.
+* Locations with higher traffic violations generally report more accidents.
+* Urban areas show the greatest accident concentration.
+* Rain contributes significantly to accidents across major locations.
 
 ## 5. Business Impact
 
@@ -223,16 +231,16 @@ This dashboard enables organizations to:
 6. Allocate traffic management resources more effectively.
    
 # Business Success Criteria
-Reduce accidents at identified high-risk locations by 20%.
-Improve accident hotspot identification accuracy.
-Enhance traffic monitoring and planning.
-Enable proactive decision-making using real-time insights.
+* Reduce accidents at identified high-risk locations by 20%.
+* Improve accident hotspot identification accuracy.
+* Enhance traffic monitoring and planning.
+* Enable proactive decision-making using real-time insights.
 
 # Economic Success Criteria
-Reduce emergency response and medical costs.
-Lower infrastructure repair expenses.
-Improve allocation of traffic enforcement resources.
-Minimize economic losses caused by road accidents.
+* Reduce emergency response and medical costs.
+* Lower infrastructure repair expenses.
+* Improve allocation of traffic enforcement resources.
+* Minimize economic losses caused by road accidents.
 
 # Recommendations
 
