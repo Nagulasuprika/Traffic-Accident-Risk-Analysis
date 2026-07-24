@@ -1,11 +1,30 @@
-# Traffic Accident Risk Analysis & High-Risk Zone Identification 
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Python](https://img.shields.io/badge/Python-EDA-blue)
-![DAX](https://img.shields.io/badge/DAX-Measures-green)
-![Power Query](https://img.shields.io/badge/PowerQuery-ETL-orange)
+# Traffic Accident Risk Analysis & High-Risk Zone Identification
 
-An interactive Power BI dashboard designed to analyze traffic accident patterns, identify accident-prone locations, and uncover the key factors contributing to road accidents. The solution combines Python-based data cleaning and exploratory data analysis (EDA) with Power BI visualizations to support data-driven road safety decisions.
+Every traffic accident tells a story, but without proper analysis, critical patterns remain hidden. This repository presents an end-to-end analytics project that uses Python and Power BI to identify accident hotspots, analyze contributing factors, and deliver actionable insights for improving road safety.
 
+A comprehensive business intelligence solution developed to help transportation authorities make data-driven decisions, optimize resource allocation, and implement proactive accident prevention strategies.
+
+
+## Table of Contents
+
+1. Project Overview
+2. Problem Statement
+3. Dataset Description
+4. Methodology
+5. Key Findings
+6. Recommendations
+7. Technical Implementation
+8. Deliverables
+
+## 🎯 1. Project Overview
+
+**Project Type:** Traffic Safety Analytics | Data Analytics | Business Intelligence Dashboard
+**Domain:** Transportation | Road Safety | Traffic Management
+**Time Period Analyzed:** January-July 2025
+**Focus:** Accident Pattern Analysis, High-Risk Zone Identification & Road Safety Decision Support
+**Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI Desktop, Power Query, DAX, Data Modeling,Statistical Analysis
+**Target Audience:** Traffic Authorities, Road Safety Departments, City Planners, Transportation Analysts, Policy Makers, Recruiters
+   
 # Short Description / Purpose
 
 The Traffic Accident Risk Analysis Dashboard is an interactive business intelligence solution built using Python and Power BI. It enables stakeholders to monitor accident trends, identify high-risk locations, analyze temporal and environmental factors, and uncover actionable insights that support accident prevention and efficient traffic management.
