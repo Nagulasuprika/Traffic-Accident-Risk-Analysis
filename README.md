@@ -1,4 +1,8 @@
 # Traffic Accident Risk Analysis & High-Risk Zone Identification 
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Python](https://img.shields.io/badge/Python-EDA-blue)
+![DAX](https://img.shields.io/badge/DAX-Measures-green)
+![Power Query](https://img.shields.io/badge/PowerQuery-ETL-orange)
 
 An interactive Power BI dashboard designed to analyze traffic accident patterns, identify accident-prone locations, and uncover the key factors contributing to road accidents. The solution combines Python-based data cleaning and exploratory data analysis (EDA) with Power BI visualizations to support data-driven road safety decisions.
 
@@ -88,29 +92,29 @@ The dashboard aims to:
 
 Compares accidents across Urban, Highway, and Rural roads.
 
-Business Question Answered
-  Q. Which road type contributes the most accidents?
+##### Business Question
+Q. Which road type contributes the most accidents?
 
 ##### Weather Impact Analysis
 
 Analyzes accident distribution under different weather conditions.
 
-Business Question Answered
-  Q. Which weather conditions increase accident risk?
+##### Business Question
+Q. Which weather conditions increase accident risk?
 
 ##### Lighting Condition Analysis
 
 Shows accident occurrence during Day, Night, and Dusk/Dawn.
 
-Business Question Answered
-  Q. Does lighting influence accident occurrence?
+##### Business Question 
+Q. Does lighting influence accident occurrence?
 
 ##### Accident Severity Distribution
 
 Visualizes the proportion of Low, Minor, and Serious accidents.
 
-Business Question Answered
-  Q. How severe are most reported accidents?
+##### Business Question 
+Q. How severe are most reported accidents?
 
 #### * Interactive Filters
 * Month
@@ -130,29 +134,29 @@ Focuses on identifying accident trends across different time dimensions.
 
 Ranks accident frequency across weekdays.
 
-Business Question Answered
-  Q. Which day experiences the highest number of accidents?
+##### Business Question 
+Q. Which day experiences the highest number of accidents?
 
 ##### Peak Accident Hours
 
 Analyzes hourly accident trends.
 
-Business Question Answered
-  Q. At what time do accidents occur most frequently?
+##### Business Question 
+Q. At what time do accidents occur most frequently?
 
 ##### Traffic Volume Analysis
 
 Compares traffic volume with accident occurrence.
 
-Business Question Answered
-  Q. Is traffic volume related to accident frequency?
+##### Business Question 
+Q. Is traffic volume related to accident frequency?
 
 ##### Monthly Accident Trend
 
 Displays accident patterns across months.
 
-Business Question Answered
-  Q. Which months require additional traffic monitoring?
+##### Business Question 
+Q. Which months require additional traffic monitoring?
 
 #### * Interactive Filters
 * Month
@@ -172,29 +176,29 @@ Focuses on identifying accident hotspots and geographical risk areas.
 
 Compares accidents and violations across locations.
 
-Business Question Answered
-  Q. Do locations with more traffic violations also experience more accidents?
+##### Business Question 
+Q. Do locations with more traffic violations also experience more accidents?
 
 ##### Road Type Distribution by Location
 
 Shows dominant road types across accident locations.
 
-Business Question Answered
-  Q. Which road infrastructure contributes most to accidents?
+##### Business Question 
+Q. Which road infrastructure contributes most to accidents?
 
 ##### Accident Hotspot Map
 
 Displays accident locations geographically.
 
-Business Question Answered
-  Q. Where should authorities prioritize safety improvements?
+##### Business Question 
+Q. Where should authorities prioritize safety improvements?
 
 ##### Weather Impact by Location
 
 Shows weather-related accident distribution across locations.
 
-Business Question Answered
-  Q. Which weather conditions increase accident risk in each location?
+##### Business Question 
+Q. Which weather conditions increase accident risk in each location?
 
 ### * Interactive Filters
 * Day
