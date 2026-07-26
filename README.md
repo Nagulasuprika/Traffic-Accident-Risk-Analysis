@@ -19,10 +19,9 @@ Every traffic accident tells a story, but without proper analysis, critical patt
 
 # 🎯 1. Project Overview
 
-**Project Type:** Traffic Safety Analytics | Data Analytics | Business Intelligence Dashboard
+**Project Type:** Traffic Safety Analytics | Data Analytics | Business Intelligence 
 **Domain:** Transportation | Road Safety | Traffic Management
 **Time Period Analyzed:** January-July 2025
-**Focus:** Accident Pattern Analysis, High-Risk Zone Identification & Road Safety Decision Support
 **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI Desktop, Power Query, DAX, Data Modeling,Statistical Analysis
 **Target Audience:** Traffic Authorities, Road Safety Departments, City Planners, Transportation Analysts, Policy Makers, Recruiters
 
@@ -74,7 +73,7 @@ This results in:
 
 The project aims to answer the following business questions:
 
-### Executive Questions
+### Business Questions
 
 1. Which locations have the highest accident frequency?
 2. Which road types are most accident-prone?
@@ -168,7 +167,7 @@ The project aims to answer the following business questions:
 
 Understand the overall accident scenario and establish baseline traffic safety metrics.
 
-**Metrics Calculated**
+**KPIs Evaluated**
 
 - Total Accidents
 - Total Traffic Violations
@@ -226,7 +225,7 @@ Lowest Score   → Low-Risk Zone
 
 Identify when accidents occur most frequently to support preventive traffic planning.
 
-**Metrics Calculated**
+**KPIs Evaluated**
 
 - Accidents by Hour
 - Peak Traffic Volume
@@ -327,14 +326,6 @@ The dashboard classifies accident-prone areas using accident frequency, traffic 
 - Rainy weather
 - Peak traffic hours
 
-### Recommended Actions
-
-- Install warning signs
-- Improve traffic signal timing
-- Increase police monitoring
-- Deploy CCTV surveillance
-- Implement speed enforcement
-
 ---
 
 ## 🟠 Medium Risk
@@ -345,13 +336,6 @@ The dashboard classifies accident-prone areas using accident frequency, traffic 
 - Moderate traffic flow
 - Mixed weather conditions
 
-### Recommended Actions
-
-- Periodic monitoring
-- Speed enforcement
-- Road maintenance
-- Driver awareness campaigns
-
 ---
 
 ## 🟢 Low Risk
@@ -361,12 +345,6 @@ The dashboard classifies accident-prone areas using accident frequency, traffic 
 - Low accident count
 - Low traffic violations
 - Stable traffic conditions
-
-### Recommended Actions
-
-- Continue regular monitoring
-- Preventive road inspections
-- Maintain existing safety infrastructure
 
 ---
 
@@ -424,6 +402,7 @@ The dashboard classifies accident-prone areas using accident frequency, traffic 
 
 The analysis reveals that **accidents are not randomly distributed**. They are concentrated around specific **urban locations, rainy weather conditions, and peak traffic hours**. By focusing safety interventions on these high-risk factors, traffic authorities can improve resource allocation and work toward achieving the project's objective of reducing accidents at identified hotspots.
 
+
 # 💡 7. Business Recommendations
 
 ### Immediate Actions
@@ -455,14 +434,14 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 ---
 
 
-## 📊 8. Dashboard Structure
+## 📊 8. Dashboard Walkthrough
 
 ### 🏠 Page 1: Executive Overview
 
 **Focus**
 - Overall traffic accident performance and safety indicators
 
-**Dashboard Includes**
+**Key Visualizations**
 - KPI Cards: Total Accidents, Traffic Violations, Total Vehicles, Average Speed
 - Accident Distribution by Road Type
 - Weather-wise Accident Analysis
@@ -482,7 +461,7 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 **Focus**
 - Geographic accident distribution and hotspot identification
 
-**Dashboard Includes**
+**Key Visualizations**
 - Accident Hotspots by Location
 - Traffic Violations by Location
 - Road Type Comparison
@@ -502,7 +481,7 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 **Focus**
 - Accident trends across different time periods
 
-**Dashboard Includes**
+**Key Visualizations**
 - Hour-wise Accident Trend
 - Day-wise Accident Analysis
 - Monthly Accident Trend
@@ -522,12 +501,12 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 ### Tools & Technologies Used
 
 **Data Visualization:**
-- **Power BI Desktop:** Interactive dashboard with 4 comprehensive report pages
+- **Power BI Desktop:** Interactive dashboard with 3 comprehensive report pages
 - **Visual Types:** KPI Cards, Line Charts, Clustered Bar Charts, Donut Charts, Filled Maps, Tables
 - **DAX Functions:** CALCULATE(), COUNTROWS(), SUM(), DIVIDE(), RANKX(), SWITCH(), IF(), FILTER()
 
 **Data Analysis:**
-- **DAX Measures:** 20+ custom measures for accident metrics, traffic analysis, and hotspot identification
+- **DAX Measures:** Custom dax measures for accident metrics, traffic analysis, and hotspot identification
 - **Calculations:** Accident frequency, severity distribution, weather impact, traffic volume analysis
 - **Modeling:** Location-based risk assessment, temporal trend analysis, environmental impact analysis
 
