@@ -16,7 +16,6 @@ Every traffic accident tells a story, but without proper analysis, critical patt
 8. Dashboard Walkthrough
 9. Technical Implementation
 10. Business Impact
-11. Deliverables
 
 # 🎯 1. Project Overview
 
@@ -514,7 +513,7 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 - Helps authorities optimize patrol scheduling and emergency response planning.
 - Identifies peak accident periods for proactive traffic management.
 
-<img width="1920" height="920" alt="Time Analysis" src="YOUR_GITHUB_IMAGE_LINK_HERE"/>
+<img width="1920" height="920" alt="Time Analysis" src="https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/1e43fe65bd219a4eba55bc67d98fb8fe60bd1d77/Traffic%20Accidents%20Time%20Analysis.png"/>
 
 ---
 
