@@ -20,9 +20,13 @@ Every traffic accident tells a story, but without proper analysis, critical patt
 # 🎯 1. Project Overview
 
 **Project Type:** Traffic Safety Analytics | Data Analytics | Business Intelligence 
+
 **Domain:** Transportation | Road Safety | Traffic Management
+
 **Time Period Analyzed:** January-July 2025
+
 **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI Desktop, Power Query, DAX, Data Modeling,Statistical Analysis
+
 **Target Audience:** Traffic Authorities, Road Safety Departments, City Planners, Transportation Analysts, Policy Makers, Recruiters
 
 ---
