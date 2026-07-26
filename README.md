@@ -474,7 +474,7 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 - Provides a high-level overview of accident trends and key safety indicators.
 - Enables stakeholders to quickly identify major accident contributors.
 
-<img width="1920" height="920" alt="Executive Overview" src="YOUR_GITHUB_IMAGE_LINK_HERE"/>
+<img width="1920" height="920" alt="Executive Overview" src="https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/75586436dc60fa9245212214ae9b65264cda0aea/Traffic%20Accidents%20Summary.png"/>
 
 ---
 
