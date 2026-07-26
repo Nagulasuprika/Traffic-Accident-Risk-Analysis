@@ -494,7 +494,7 @@ The analysis reveals that **accidents are not randomly distributed**. They are c
 - Identifies high-risk locations requiring immediate safety interventions.
 - Supports infrastructure planning and efficient allocation of traffic enforcement resources.
 
-<img width="1920" height="920" alt="Location Analysis" src="YOUR_GITHUB_IMAGE_LINK_HERE"/>
+<img width="1920" height="920" alt="Location Analysis" src="https://github.com/Nagulasuprika/Traffic-Accident-Risk-Analysis/blob/4e0cb4491e1508563e128633f50461121d49b76d/Traffic%20Accidents%20Location%20Analysis.png"/>
 
 ---
 
