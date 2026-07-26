@@ -407,6 +407,8 @@ The dashboard classifies accident-prone areas using accident frequency, traffic 
 The analysis reveals that **accidents are not randomly distributed**. They are concentrated around specific **urban locations, rainy weather conditions, and peak traffic hours**. By focusing safety interventions on these high-risk factors, traffic authorities can improve resource allocation and work toward achieving the project's objective of reducing accidents at identified hotspots.
 
 
+
+
 # 💡 7. Business Recommendations
 
 ### Immediate Actions
